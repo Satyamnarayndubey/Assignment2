@@ -14,9 +14,9 @@ namespace ConsoleApp6
 
         public void DisplayDetails()
         {
-            Console.WriteLine($"Employee Name: {Name}");
-            Console.WriteLine($"Age: {Age}");
-            Console.WriteLine($"Salary: {Salary}");
+            Console.WriteLine("Employee Name: {Name}");
+            Console.WriteLine("Age: {Age}");
+            Console.WriteLine("Salary: {Salary}");
         }
     }
 
