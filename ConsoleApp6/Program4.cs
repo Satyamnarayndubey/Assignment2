@@ -10,7 +10,7 @@ namespace ConsoleApp6
     {
         public static void LogMessage(string message)
         {
-            Console.WriteLine($"[{DateTime.Now}] - {message}");
+            Console.WriteLine("[{DateTime.Now}] - {message}");
         }
     }
     class Program
